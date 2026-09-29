@@ -1,6 +1,3 @@
-# AI-ML-
-This is college related practical of AI &amp; ML
-
 # AI & Intelligent Agents – Prolog Practicals
 
 This repository contains the complete Prolog practical programs for **Unit 1: Introduction to AI and Intelligent Agents**.
@@ -45,13 +42,3 @@ The programs demonstrate important concepts of **Artificial Intelligence, Knowle
 - **Language:** Prolog
 - **Recommended Environment:** SWI-Prolog
 - **Editor:** VS Code / Any Text Editor
-
----
-
-## 📂 Repository Structure
-
-```text
-AI-Intelligent-Agents-Prolog-Practicals/
-│
-├── ai_intelligent_agents_practicals.pl
-└── README.md
